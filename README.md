@@ -1,2 +1,3 @@
 # Calculadora
-Projeto Criado Com Intuito de Aprender JavaScript 
+
+- Projeto Criado Com Intuito de Aprender JavaScript 
